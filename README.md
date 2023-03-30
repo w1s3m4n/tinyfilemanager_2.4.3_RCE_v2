@@ -7,7 +7,7 @@ Just a simple script, created by FEBIN MON SAJI (https://febin0x4e4a.wordpress.c
   - Added cleaning stuff and some style changes
 
 ### Use:
-´´´
+
         Tiny File Manager Authenticated RCE POC Exploit - V2.
 
         By FEBIN - Modified by W1s3m4n
@@ -20,9 +20,8 @@ Just a simple script, created by FEBIN MON SAJI (https://febin0x4e4a.wordpress.c
                 - admin:admin@123
                 - user/12345
 
-        SHELL: Open a netcat listener on LocalIP and LocalPort for python3 reverse shell.
+        SHELL: Open a netcat listener on LocalIP and LocalPort for python3 reverse shell
 
-´´´
 
   
  
